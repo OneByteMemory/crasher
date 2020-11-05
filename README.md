@@ -1,2 +1,12 @@
 # crasher
-Lag Your Voice Durring Meeting
+Lag Your Voice & screeen & camera Durring Meeting
+
+
+bash pod.sh
+#Enter Your IP
+
+And enjoy Lagging in your zoom class :)
+
+I: If Not Worked, And You are Not Lagging, Connect This Device Via LAN cable (The Attacker Device), Or DM me on instagram, @mahmoud_7_h_osman To Help You 
+
+Bye :)
