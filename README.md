@@ -1,4 +1,7 @@
 # crasher
+NOT FOR TERMUX USERS
+
+The Best zoom meeting crasher && lagger, LOL (:
 Lag Your Voice & screeen & camera Durring Meeting
 
 
