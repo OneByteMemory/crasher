@@ -10,6 +10,6 @@ bash pod.sh
 
 And enjoy Lagging in your zoom class :)
 
-I: If Not Worked, And You are Not Lagging, Connect This Device Via LAN cable (The Attacker Device), Or DM me on instagram, @mahmoud_7_h_osman To Help You 
+I: If Not Worked, And You are Not Lagging, Connect This Device Via LAN cable (The Attacker Device), Or DM me on Telegram @MLTF18, To Help You 
 
 Bye :)
