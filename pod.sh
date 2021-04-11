@@ -5,7 +5,7 @@ echo   '|-----------------------------------------------------------------------
 printf '|                         '$blink'    Ping Of Death '$rblink'                                             |\n'
 echo   '|----------------------------------------------------------------------------------------|'
 sleep 0.5
-echo '[Pod] Used in zoom meeting, Lag Your Voice By Your Ip, My Insta @mahmoud_7_h_osman'
+echo '[Pod] Used in zoom meeting, Lag Your Voice By Your Ip By Mahmoud V7X'
 sleep 0.9
 echo '[Pod] Starting ... '
 sleep 0.5
